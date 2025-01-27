@@ -1,22 +1,22 @@
-<h2 align="left">Hola, soy Johan Sebastián Miranda Gualdrón 👋</h2>
+<h2 align="left">Hello, I am Johan Sebastián Miranda Gualdrón 👋</h2>
 
 ###
 
-<p align="left">Desarrollador Web Full-Stack 🚀</p>
+<p align="left">Full-Stack Web Developer 🚀</p>
 
 ###
 
-<p align="left">Soy un desarrollador web full-stack con 3 años de experiencia en el diseño y desarrollo de aplicaciones web eficientes y personalizadas. Mi especialidad incluye la optimización de consultas, la creación de APIs a medida y el desarrollo de soluciones de alta calidad adaptadas a las necesidades del cliente.</p>
+<p align="left">I am a full-stack web developer with 3 years of experience in designing and developing efficient and customized web applications. My expertise includes query optimization, building custom APIs, and developing high-quality solutions tailored to client needs.</p>
 
 ###
 
 <p align="left">
-  <b>Habilidades principales 🛠️</b><br>
+  <b>Main Skills 🛠️</b><br>
   • <b>Back-End:</b> Django, Ruby on Rails, Spring Boot<br>
   • <b>Front-End:</b> Angular, JavaScript, jQuery<br>
-  • <b>Bases de Datos:</b> Diseño y gestión de bases relacionales<br>
-  • <b>Herramientas y Control de Versiones:</b> Git, integración de APIs<br>
-  • <b>Características clave:</b> Altamente detallista, orientado a resultados y con un enfoque constante en la mejora continua.
+  • <b>Databases:</b> Design and management of relational databases<br>
+  • <b>Tools and Version Control:</b> Git, API integration<br>
+  • <b>Key Characteristics:</b> Highly detail-oriented, results-driven, and continuously focused on improvement.
 </p>
 
 ###
